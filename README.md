@@ -250,7 +250,7 @@ This error is fixed in the latest version. Make sure you're using the updated pl
 
 ## Credits
 
-Author: Mauricio Paz
-Instagram: @mauricio.paz.p
-Linkedin: https://www.linkedin.com/in/m-paz/
+- Author: Mauricio Paz
+- Instagram: @mauricio.paz.p
+- Linkedin: https://www.linkedin.com/in/m-paz/
 
